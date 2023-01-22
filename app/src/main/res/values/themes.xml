@@ -18,6 +18,8 @@
     
     <style name="search">
         <item name="android:background">@drawable/style_search</item>
-
+    </style>
+    <style name="recycleView">
+        <item name="android:background">@drawable/style_recycle</item>
     </style>
 </resources>
